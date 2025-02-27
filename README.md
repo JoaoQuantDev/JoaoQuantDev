@@ -1,4 +1,5 @@
-# 👨🏼‍💻 João Almeida <p align="left">
+# 👨🏼‍💻 João Almeida 
+<p align="left">
     <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
         <img 
             alt="LinkedIn"
