@@ -52,14 +52,6 @@ Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação].
 />
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SQL Server" 
     title="SQL Server"
     width="30px" 
@@ -81,22 +73,6 @@ Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação].
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Apache Kafka" 
-    title="Apache Kafka"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kafka/kafka-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Excel" 
-    title="Excel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftexcel/microsoftexcel-original.svg" 
 />
 
 <br/>
