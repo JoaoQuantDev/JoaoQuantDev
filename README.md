@@ -5,6 +5,13 @@
 Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação]. Atualmente, estou cursando [Curso atual]. Sou apaixonado por [...]".
 
 <p align="left">
+    <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
+        <img 
+            alt="LinkedIn"
+            title="Me siga no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
