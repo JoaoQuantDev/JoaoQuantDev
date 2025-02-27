@@ -1,5 +1,5 @@
 <p align="left">
-    <span>👨🏼‍💻 João Almeida, CNPI</span>
+    <span style="font-size: 18px; font-weight: bold;">👨🏼‍💻 João Almeida, CNPI</span>
     <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
         <img 
             alt="LinkedIn"
@@ -9,7 +9,6 @@
             style="padding-left: 10px; vertical-align: middle;" />
     </a>
 </p>
-
 **`Quantitative Analyst`**
 
 Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação]. Atualmente, estou cursando [Curso atual]. Sou apaixonado por [...]".
