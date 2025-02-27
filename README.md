@@ -5,13 +5,6 @@
 Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação]. Atualmente, estou cursando [Curso atual]. Sou apaixonado por [...]".
 
 <p align="left">
-        <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/linkedin/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
