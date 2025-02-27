@@ -9,6 +9,7 @@
             style="padding-left: 10px; vertical-align: middle;" />
     </a>
 </p>
+
 **`Quantitative Analyst`**
 
 Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação]. Atualmente, estou cursando [Curso atual]. Sou apaixonado por [...]".
