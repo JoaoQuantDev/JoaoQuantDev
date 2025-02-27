@@ -1,13 +1,12 @@
-# 👨🏼‍💻 João Almeida 
 <p align="left">
+    <span>👨🏼‍💻 João Almeida, CNPI</span>
     <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
         <img 
             alt="LinkedIn"
             title="Me siga no LinkedIn"
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
             width="30px"
-            style="padding-right: 10px;"
-        />
+            style="padding-left: 10px; vertical-align: middle;" />
     </a>
 </p>
 
