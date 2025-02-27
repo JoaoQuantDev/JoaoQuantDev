@@ -1,5 +1,5 @@
 <p align="left">
-    <span style="font-size: 25px; font-weight: bold;">👨🏼‍💻 João Almeida, CNPI</span>
+    <strong style="font-size: 20px;">👨🏼‍💻 João Almeida, CNPI</strong>
     <a href="https://www.linkedin.com/in/seu-usuario-linkedin">
         <img 
             alt="LinkedIn"
