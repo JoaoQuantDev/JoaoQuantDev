@@ -9,7 +9,9 @@ Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação].
         <img 
             alt="LinkedIn"
             title="Me siga no LinkedIn"
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+            width="30px"
+            style="padding-right: 10px;"
         />
     </a>
     <a href="https://github.com/Larissakich?tab=followers">
