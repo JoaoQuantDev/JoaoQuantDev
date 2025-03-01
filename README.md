@@ -12,7 +12,7 @@
 
 **`Quantitative Analyst`**
 
-Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. [Formação]. Atualmente, estou cursando [Curso atual]. Sou apaixonado por [...]".
+Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. Possuo formação na área de finanças, engenharia e ciência dos dados. Atualmente, estou mais uma vez me pós graduando em algorithmic trading. Sou apaixonado por desenvolvimento, dados e mercado financeiro.
 
 ---
 
