@@ -12,7 +12,17 @@
 
 **`Quantitative Analyst`**
 
-Me chamo João Almeida, tenho 26 anos e sou natural de São Paulo. Possuo formação na área de finanças, engenharia e ciência dos dados. Sou apaixonado por desenvolvimento, dados e mercado financeiro.
+Me chamo João, tenho 25 anos e sou natural de São Paulo. Possuo formação na área de finanças, ciência dos dados e engenharia. Sou apaixonado por desenvolvimento, dados e mercado financeiro.
+
+Ao longo da minha jornada profissional, desenvolvi uma sólida compreensão de estruturas de dados, aplicando conceitos avançados para otimização e eficiência no processamento e análise de grandes volumes de informações. Tenho experiência em fluxo contínuo de dados, utilizando ferramentas e técnicas para garantir que as informações sejam processadas em tempo real, especialmente no contexto financeiro.
+
+No campo de algoritmos de trading (algotrading), desenvolvi e implementei estratégias automatizadas de negociação com foco em backtesting, que me permite testar e validar estratégias de investimento utilizando dados históricos para entender seu desempenho em diferentes cenários de mercado. Esse processo é essencial para mitigar riscos e maximizar retornos.
+
+Além disso, tenho uma base sólida em econometria, utilizando modelos estatísticos para analisar dados financeiros e prever tendências de mercado. Trabalho com derivativos, seja em opções ou futuros, compreendendo suas características e aplicando-os em estratégias de hedge e especulação.
+
+Acredito firmemente na importância da análise de risco, não apenas para a mitigação de perdas, mas também para a identificação de oportunidades. Utilizo ferramentas de inteligência artificial (IA) para otimizar modelos preditivos e melhorar as decisões de investimento, aplicando aprendizado de máquina para detectar padrões e insights nos mercados financeiros.
+
+Com minha combinação de conhecimentos em finanças, tecnologia e análise de dados, estou sempre em busca de desafios que me permitam evoluir profissionalmente e contribuir de forma significativa para o setor financeiro e tecnológico.
 
 ---
 
