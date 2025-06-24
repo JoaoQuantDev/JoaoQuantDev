@@ -12,7 +12,7 @@
 
 **`Quantitative Analyst`**
 
-Me chamo João, tenho 25 anos e sou natural de São Paulo. Possuo formação na área de finanças, ciência dos dados e engenharia. Sou apaixonado por desenvolvimento, dados e mercado financeiro.
+Me chamo João, tenho 26 anos e sou natural de São Paulo. Possuo formação na área de finanças, ciência dos dados e engenharia. Sou apaixonado por desenvolvimento, dados e mercado financeiro.
 
 Ao longo da minha jornada profissional, desenvolvi uma sólida compreensão de estruturas de dados, aplicando conceitos avançados para otimização e eficiência no processamento e análise de grandes volumes de informações. Tenho experiência em fluxo contínuo de dados, utilizando ferramentas e técnicas para garantir que as informações sejam processadas em tempo real, especialmente no contexto financeiro.
 
